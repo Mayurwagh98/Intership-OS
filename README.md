@@ -1,5 +1,5 @@
 # Intership-OS-Projects
-This are some of the projects I did during my internship in orbit shifters.
+These are some of the projects I did during my internship in orbit shifters.
 Ypu can find some of the glimpes of few projects I have attached here. 
 
 Cycling :- 
