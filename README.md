@@ -14,8 +14,6 @@ Weight Lifting
 
 https://user-images.githubusercontent.com/69896733/161378128-33836908-87d0-48d4-93b3-58dddd0b2eaa.mp4
 
-![Screenshot (644)](https://user-images.githubusercontent.com/69896733/161257086-e3ad2426-93b5-4101-9996-5ebdaec3f5cb.png)
-
 Vehicle Image Classifier
 
 ![Screenshot (645)](https://user-images.githubusercontent.com/69896733/161258574-68bf3098-5885-4bdf-af12-4fa7b1d35804.png)
