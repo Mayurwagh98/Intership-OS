@@ -10,11 +10,11 @@ Golf :-
 
 https://user-images.githubusercontent.com/69896733/161378213-c65a9c75-636d-4311-a5bf-5485cac55b72.mp4
 
-Weight Lifting
+Weight Lifting :-
 
 https://user-images.githubusercontent.com/69896733/161378128-33836908-87d0-48d4-93b3-58dddd0b2eaa.mp4
 
-Vehicle Image Classifier
+Vehicle Image Classifier :-
 
 ![Screenshot (645)](https://user-images.githubusercontent.com/69896733/161258574-68bf3098-5885-4bdf-af12-4fa7b1d35804.png)
 
