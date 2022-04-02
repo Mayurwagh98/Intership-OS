@@ -3,8 +3,13 @@ These are some of the projects I did during my internship in orbit shifters.
 Ypu can find some of the glimpes of few projects I have attached here. 
 
 Cycling :- 
-https://user-images.githubusercontent.com/69896733/161254393-12cdc285-f720-41cd-af5e-76df33c9f6a0.mp4
-![Screenshot (642)](https://user-images.githubusercontent.com/69896733/161255471-f1ca15a7-9eff-4d20-a638-15b4a4efd14e.png)
+
+
+https://user-images.githubusercontent.com/69896733/161378183-d8f94e94-5660-40f2-ad09-d6d35124d26c.mp4
+
+
+<!-- https://user-images.githubusercontent.com/69896733/161254393-12cdc285-f720-41cd-af5e-76df33c9f6a0.mp4 -->
+<!-- ![Screenshot (642)](https://user-images.githubusercontent.com/69896733/161255471-f1ca15a7-9eff-4d20-a638-15b4a4efd14e.png) -->
 
 
 Golf :-
