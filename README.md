@@ -4,17 +4,11 @@ Ypu can find some of the glimpes of few projects I have attached here.
 
 Cycling :- 
 
-
 https://user-images.githubusercontent.com/69896733/161378183-d8f94e94-5660-40f2-ad09-d6d35124d26c.mp4
 
-
-<!-- https://user-images.githubusercontent.com/69896733/161254393-12cdc285-f720-41cd-af5e-76df33c9f6a0.mp4 -->
-<!-- ![Screenshot (642)](https://user-images.githubusercontent.com/69896733/161255471-f1ca15a7-9eff-4d20-a638-15b4a4efd14e.png) -->
-
-
 Golf :-
-https://user-images.githubusercontent.com/69896733/161255597-05705bb4-f42a-45e5-aa70-74ad60d321a0.mp4
-![Screenshot (643)](https://user-images.githubusercontent.com/69896733/161255729-d8001e43-671a-4711-8d2a-6982e701b5d2.png)
+
+https://user-images.githubusercontent.com/69896733/161378213-c65a9c75-636d-4311-a5bf-5485cac55b72.mp4
 
 Weight Lifting
 
