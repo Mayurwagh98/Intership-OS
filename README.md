@@ -16,5 +16,5 @@ https://user-images.githubusercontent.com/69896733/161378128-33836908-87d0-48d4-
 
 Vehicle Image Classifier :-
 
-   ![Screenshot (645)](https://user-images.githubusercontent.com/69896733/161258574-68bf3098-5885-4bdf-af12-4fa7b1d35804.png)
+![Screenshot (645)](https://user-images.githubusercontent.com/69896733/161258574-68bf3098-5885-4bdf-af12-4fa7b1d35804.png)
 
